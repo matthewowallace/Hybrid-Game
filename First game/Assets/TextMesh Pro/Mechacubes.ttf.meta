@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a78fef12c2a5b2b4ea65067734afba56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mechacubes
+  fontNames:
+  - Mechacubes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 130a8babc0398f74cacf4d3d6d35582c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
